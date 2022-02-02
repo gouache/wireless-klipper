@@ -1,5 +1,5 @@
 
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](http://www.youtube.com/embed/5qxUraexkFY)
+[![Watch the video](http://img.youtube.com/vi/5qxUraexkFY/hqdefault.jpg)](http://www.youtube.com/embed/5qxUraexkFY)
 
 # wireless-klipper
 These are klipper wireless usb-serial based on arduino WifiTelnetToSerial.
