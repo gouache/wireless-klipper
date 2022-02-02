@@ -32,4 +32,5 @@ https://dl.espressif.com/dl/package_esp32_index.json
 
 ## socat
 $ sudo apt install socat
+
 $ socat pty,link=/tmp/virtualcom0,ispeed=b115200,ospeed=b115200,raw,echo=0 tcp:192.168.4.1:8888
